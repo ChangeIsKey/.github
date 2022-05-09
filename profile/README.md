@@ -12,7 +12,7 @@ This research program is funded by the [Riksbankens Jubileumsfond](https://www.r
 
 This project is spearheaded by [Nina Tahmasebi](https://www.changeiskey.org/author/nina-tahmasebi/) at the University of Gothenburg's [Språkbanken Text (SBX)](https://spraakbanken.gu.se/). 
 
-Team members are, by alphabetical order: 
+Team members are, in alphabetical order: 
 - [Dirk Geeraerts](https://www.changeiskey.org/author/dirk-geeraerts/), KU Leuven
 - [Dominik Schlechtweg](https://www.changeiskey.org/author/dominik-schlechtweg/), IMS Stuttgart
 - [Emma Sköldberg](https://www.changeiskey.org/author/emma-skoldberg/), University of Gothenburg
