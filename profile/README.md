@@ -16,7 +16,7 @@ Team members are, in alphabetical order:
 - [Dirk Geeraerts](https://www.changeiskey.org/author/dirk-geeraerts/), KU Leuven
 - [Dominik Schlechtweg](https://www.changeiskey.org/author/dominik-schlechtweg/), IMS Stuttgart
 - [Emma Sköldberg](https://www.changeiskey.org/author/emma-skoldberg/), University of Gothenburg
-- [Haim Dubossarsky](https://www.changeiskey.org/author/haim-dubossarsky/), Queen Mary's University London
+- [Haim Dubossarsky](https://www.changeiskey.org/author/haim-dubossarsky/), Queen Mary University London
 - [Mats Malm](https://www.changeiskey.org/author/mats-malm/), University of Gothenburg
 - [Mia Liinason](https://www.changeiskey.org/author/mia-liinason/), Lund University
 - [Sarah Valdez](https://www.changeiskey.org/author/sarah-valdez/), Linköping University
