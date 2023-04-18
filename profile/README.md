@@ -10,15 +10,17 @@ This research program is funded by the [Riksbankens Jubileumsfond](https://www.r
 
 ## People and places
 
-This project is spearheaded by [Nina Tahmasebi](https://www.changeiskey.org/author/nina-tahmasebi/) at the University of Gothenburg's [Språkbanken Text (SBX)](https://spraakbanken.gu.se/). 
+This program is spearheaded by [Nina Tahmasebi](https://www.changeiskey.org/author/nina-tahmasebi/) at the University of Gothenburg's [Språkbanken Text (SBX)](https://spraakbanken.gu.se/). 
 
 Team members are, in alphabetical order: 
+- [David Alfter](https://www.changeiskey.org/author/david-alfter/), University of Gothenburg
 - [Dirk Geeraerts](https://www.changeiskey.org/author/dirk-geeraerts/), KU Leuven
 - [Dominik Schlechtweg](https://www.changeiskey.org/author/dominik-schlechtweg/), IMS Stuttgart
 - [Emma Sköldberg](https://www.changeiskey.org/author/emma-skoldberg/), University of Gothenburg
 - [Haim Dubossarsky](https://www.changeiskey.org/author/haim-dubossarsky/), Queen Mary University London
 - [Mats Malm](https://www.changeiskey.org/author/mats-malm/), University of Gothenburg
 - [Mia Liinason](https://www.changeiskey.org/author/mia-liinason/), Lund University
+- [Pierluigi Cassotti](https://www.changeiskey.org/author/pierluigi-cassotti/), University of Bari
 - [Sarah Valdez](https://www.changeiskey.org/author/sarah-valdez/), Linköping University
 - [Shafqat Mumtaz Virk](https://www.changeiskey.org/author/shafqat-mumtaz-virk/), University of Gothenburg
 - [Simon Hengchen](https://www.changeiskey.org/author/simon-hengchen/), University of Gothenburg
