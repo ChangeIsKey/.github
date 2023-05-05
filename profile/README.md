@@ -10,7 +10,7 @@ This research program is funded by the [Riksbankens Jubileumsfond](https://www.r
 
 ## People and places
 
-This program is spearheaded by [Nina Tahmasebi](https://www.changeiskey.org/author/nina-tahmasebi/) at the University of Gothenburg's [Språkbanken Text (SBX)](https://spraakbanken.gu.se/). 
+This program is spearheaded by [Nina Tahmasebi](https://www.changeiskey.org/author/nina-tahmasebi/) at the University of Gothenburg's [Linguistics and Theory of Science unit (FloV)](https://www.gu.se/en/about/find-staff/ninatahmasebi). 
 
 Team members are, in alphabetical order: 
 - [David Alfter](https://www.changeiskey.org/author/david-alfter/), University of Gothenburg
@@ -23,7 +23,7 @@ Team members are, in alphabetical order:
 - [Pierluigi Cassotti](https://www.changeiskey.org/author/pierluigi-cassotti/), University of Bari
 - [Sarah Valdez](https://www.changeiskey.org/author/sarah-valdez/), Linköping University
 - [Shafqat Mumtaz Virk](https://www.changeiskey.org/author/shafqat-mumtaz-virk/), University of Gothenburg
-- [Simon Hengchen](https://www.changeiskey.org/author/simon-hengchen/), University of Gothenburg
+- [Simon Hengchen](https://www.changeiskey.org/author/simon-hengchen/), University of Geneva
 - [Stefano de Pascale](https://www.changeiskey.org/author/stefano-de-pascale/), KU Leuven
 
 
