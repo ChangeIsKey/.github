@@ -10,7 +10,7 @@ This research program is funded by the [Riksbankens Jubileumsfond](https://www.r
 
 ## People and places
 
-This program is spearheaded by [Nina Tahmasebi](https://www.changeiskey.org/author/nina-tahmasebi/) at the University of Gothenburg's [Linguistics and Theory of Science unit (FloV)](https://www.gu.se/en/about/find-staff/ninatahmasebi). 
+This program is spearheaded by [Nina Tahmasebi](https://www.changeiskey.org/author/nina-tahmasebi/) at the University of Gothenburg's [Linguistics and Theory of Science unit (FLoV)](https://www.gu.se/en/about/find-staff/ninatahmasebi). 
 
 Team members are, in alphabetical order: 
 - [David Alfter](https://www.changeiskey.org/author/david-alfter/), University of Gothenburg
