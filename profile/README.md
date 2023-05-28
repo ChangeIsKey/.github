@@ -17,10 +17,10 @@ Team members are, in alphabetical order:
 - [Dirk Geeraerts](https://www.changeiskey.org/author/dirk-geeraerts/), KU Leuven
 - [Dominik Schlechtweg](https://www.changeiskey.org/author/dominik-schlechtweg/), IMS Stuttgart
 - [Emma Sköldberg](https://www.changeiskey.org/author/emma-skoldberg/), University of Gothenburg
+- [Francesco Periti](https://www.changeiskey.org/author/francesco-periti/), University of Milan
 - [Haim Dubossarsky](https://www.changeiskey.org/author/haim-dubossarsky/), Queen Mary University London
 - [Mats Malm](https://www.changeiskey.org/author/mats-malm/), University of Gothenburg
 - [Mia Liinason](https://www.changeiskey.org/author/mia-liinason/), Lund University
-- [Periti Francesco](https://www.changeiskey.org/author/francesco-periti/), University of Milan
 - [Pierluigi Cassotti](https://www.changeiskey.org/author/pierluigi-cassotti/), University of Bari
 - [Sarah Valdez](https://www.changeiskey.org/author/sarah-valdez/), Linköping University
 - [Shafqat Mumtaz Virk](https://www.changeiskey.org/author/shafqat-mumtaz-virk/), University of Gothenburg
