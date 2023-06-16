@@ -24,7 +24,7 @@ Team members are, in alphabetical order:
 - [Pierluigi Cassotti](https://www.changeiskey.org/author/pierluigi-cassotti/), University of Bari
 - [Sarah Valdez](https://www.changeiskey.org/author/sarah-valdez/), Linköping University
 - [Shafqat Mumtaz Virk](https://www.changeiskey.org/author/shafqat-mumtaz-virk/), University of Gothenburg
-- [Simon Hengchen](https://www.changeiskey.org/author/simon-hengchen/), University of Geneva
+- [Simon Hengchen](https://www.changeiskey.org/author/simon-hengchen/), iguanodon.ai & University of Geneva
 - [Stefano de Pascale](https://www.changeiskey.org/author/stefano-de-pascale/), KU Leuven
 
 
