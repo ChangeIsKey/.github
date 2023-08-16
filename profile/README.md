@@ -13,6 +13,7 @@ This research program is funded by the [Riksbankens Jubileumsfond](https://www.r
 This program is spearheaded by [Nina Tahmasebi](https://www.changeiskey.org/author/nina-tahmasebi/) at the University of Gothenburg's [Linguistics and Theory of Science unit (FLoV)](https://www.gu.se/en/about/find-staff/ninatahmasebi). 
 
 Team members are, in alphabetical order: 
+- [Bill Noble](https://www.gu.se/en/about/find-staff/billnoble), University of Gothenburg
 - [David Alfter](https://www.changeiskey.org/author/david-alfter/), University of Gothenburg
 - [Dirk Geeraerts](https://www.changeiskey.org/author/dirk-geeraerts/), KU Leuven
 - [Dominik Schlechtweg](https://www.changeiskey.org/author/dominik-schlechtweg/), IMS Stuttgart
